@@ -1,0 +1,20 @@
+##########################
+# Unreal Generated Files #
+##########################
+
+Build/
+Binaries/
+Content/StarterContent/
+Content/Geometry/
+Content/Mannequin/
+Content/ThirdPerson/
+Content/ThirdPersonCPP/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+#################################
+# Visual Studio Generated Files #
+#################################
+
+.vs/
